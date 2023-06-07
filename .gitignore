@@ -1,0 +1,25 @@
+# Dependencias instaladas por npm
+/node_modules
+
+# Archivo de configuración de entorno local
+.env
+
+# Archivo de registro de errores
+error.log
+
+# Archivos de respaldo
+*.bak
+*.swp
+
+# Archivos de compilación
+/dist
+
+# Archivos de registro de pruebas
+/coverage
+
+# Otros archivos y directorios generados
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo de Visual Studio Code
+.vscode/
